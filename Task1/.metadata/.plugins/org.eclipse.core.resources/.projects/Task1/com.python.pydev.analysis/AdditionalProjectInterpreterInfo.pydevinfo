@@ -1,0 +1,17 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\GitHub\TaskForPython\Task1\.metadata\.plugins\org.eclipse.core.resources\.projects\Task1\com.python.pydev.analysis\v2_indexcache
+T1.__init__|1467446318098082000|E:\GitHub\TaskForPython\Task1\Task1\T1\__init__.py
+T1.Task1|1467459781806069000|E:\GitHub\TaskForPython\Task1\Task1\T1\Task1.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=T1.Task1
+-- END DICTIONARY
+-- START TREE 1
+1
+a|1|a!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

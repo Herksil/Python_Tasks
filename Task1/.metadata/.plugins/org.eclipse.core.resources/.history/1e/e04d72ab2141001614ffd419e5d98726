@@ -1,0 +1,22 @@
+import math
+def f(x):
+    return (x+1)**2
+def D(a,b,eps):
+    if (round(abs(b-a),4)>eps):
+        while(round(abs(b-a),4)>eps):
+            y=0.5*(a+b-eps)
+            z=0.5*(a+b+eps)
+            fy=f(y)
+            fz=f(z)
+            if(fy<=fz):
+                b=z
+            else:
+                a=y
+        x=0.5*(a+b)
+        fx=f(x)
+    else:
+        x=0.5*(a+b)
+        fx=f(x)
+    return fx
+d=D(-5,0,0.0001)
+print('%4f' % (d))

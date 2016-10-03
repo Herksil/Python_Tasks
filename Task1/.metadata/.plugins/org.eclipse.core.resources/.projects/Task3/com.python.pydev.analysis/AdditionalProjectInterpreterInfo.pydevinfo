@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Агент 007\Documents\GitHub\TaskForPython\Task1\.metadata\.plugins\org.eclipse.core.resources\.projects\Task3\com.python.pydev.analysis\v2_indexcache
+T3.Task3|1467467863691485000|C:\Users\Агент 007\Documents\GitHub\TaskForPython\Task3\T3\Task3.py
+T3.__init__|1467466472444380000|C:\Users\Агент 007\Documents\GitHub\TaskForPython\Task3\T3\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=T3.Task3
+-- END DICTIONARY
+-- START TREE 1
+2
+com|1|compute!10@
+n|1|n!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

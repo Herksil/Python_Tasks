@@ -1,0 +1,21 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Агент 007\Documents\GitHub\TaskForPython\Task1\.metadata\.plugins\org.eclipse.core.resources\.projects\Task2\com.python.pydev.analysis\v2_indexcache
+T2.__init__|1467462158268906000|C:\Users\Агент 007\Documents\GitHub\TaskForPython\Task2\T2\__init__.py
+T2.Task2|1467467350250228000|C:\Users\Агент 007\Documents\GitHub\TaskForPython\Task2\T2\Task2.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=T2.Task2
+-- END DICTIONARY
+-- START TREE 1
+5
+a|1|a!11@
+i|1|i!11@
+mid|1|middle!11@
+n|1|n!11@
+sum|1|sum!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

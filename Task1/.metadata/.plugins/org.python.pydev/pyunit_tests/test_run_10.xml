@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 41" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="C:\Users\&amp;#1040;&amp;#1075;&amp;#1077;&amp;#1085;&amp;#1090; 007\Documents\GitHub\TaskForPython\Task3\T3\Task3.py" status="error" test="Task3" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\eclipse\eclipse\plugins\org.python.pydev_5.1.2.201606231256\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:/Users/&#1040;&#1075;&#1077;&#1085;&#1090; 007/Documents/GitHub/TaskForPython/Task3/T3\Task3.py", line 10, in <module>
+    print ("average of %d" % (n), "random numbers is %g" % compute (n))
+TypeError: %d format: a number is required, not str
+ERROR: Module: Task3 could not be imported (file: C:\Users\&#1040;&#1075;&#1077;&#1085;&#1090; 007\Documents\GitHub\TaskForPython\Task3\T3\Task3.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Task3 Task3.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>
